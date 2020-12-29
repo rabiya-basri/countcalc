@@ -1,0 +1,48 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 80%;
+  border: 0.1rem solid #221f1f;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0.5rem;
+  background-color: #4338ca;
+  color: white;
+}
+input {
+  padding: 0.5rem 1rem;
+  margin: 0.5rem;
+  border: 0.1rem solid rgb(36, 32, 32);
+  border-radius: 0.2rem;
+}
+button {
+  font-size: 1rem;
+  font-weight: 400;
+  background-color: #c7d2fe;
+  padding: 0.3rem 0rem 0.8rem;
+  border-radius: 0.2rem;
+  cursor: pointer;
+}
+.block {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0.9rem;
+  text-align: left;
+  font-size: 16px;
+}
+footer {
+  margin-top: 3rem;
+}
+footer a {
+  font-size: 11px;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+}
+li {
+  list-style: none;
+  display: inline-block;
+  padding: 0rem 0.2rem;
+  text-align: left;
+}
